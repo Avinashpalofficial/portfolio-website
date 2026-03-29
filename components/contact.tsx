@@ -28,7 +28,7 @@ export function Contact() {
 
               <div className="space-y-6">
                 <Link
-                  href="mailto:avinash@example.com"
+                  href="mailto:apal73451@gmail.com"
                   className="flex items-center gap-4 group"
                 >
                   <div className="w-12 h-12 rounded-lg bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors">
@@ -37,7 +37,7 @@ export function Contact() {
                   <div>
                     <p className="text-sm text-muted-foreground">Email</p>
                     <p className="font-medium text-foreground group-hover:text-primary transition-colors">
-                      avinash@example.com
+                      apal73451@gmail.com
                     </p>
                   </div>
                 </Link>
